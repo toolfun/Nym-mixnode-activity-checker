@@ -1,4 +1,4 @@
-# NYM Mixnode Active Status Checker
+# NYM Mixnode Status Checker
 
 ### Description:
 This simple bash script is designed to identify specific Nym epochs in which a mixnode was active. It leverages journalctl to extract and analyze log entries
