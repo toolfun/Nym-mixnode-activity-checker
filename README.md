@@ -1,7 +1,7 @@
 # NYM Mixnode Active Epoch Checker
 
 ### Description:
-This simple bash script is designed to identify specific Nym epochs in which a mixnode was active. It leverages journalctl to extract and analyze log entries
+This simple bash script is designed to identify specific [Nym](https://nymtech.net/) epochs in which a mixnode was active. It leverages journalctl to extract and analyze log entries
 
 ### System Requirements:
 - Unix-like OS with systemd
