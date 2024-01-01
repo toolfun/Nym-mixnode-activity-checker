@@ -1,8 +1,8 @@
 #!/bin/bash
 
-    echo -e "\n\e[94m************************\e[0m"
-    echo -e "\e[94mMixnode Activity Checker\e[0m"
-    echo -e "\e[94m************************\e[0m"
+    echo -e "\n\e[94m****************************\e[0m"
+    echo -e "\e[94mMixnode Active Epoch Checker\e[0m"
+    echo -e "\e[94m****************************\e[0m"
 
 # Handle SIGINT (Ctrl+C)
 ###trap "echo -e '\nCanceled'; exit" SIGINT
